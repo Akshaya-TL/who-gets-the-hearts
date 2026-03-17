@@ -12,11 +12,11 @@ AI art posts will show a steeper negative sentiment slope over comment position 
 4. **Comparison**: Wilcoxon signed-rank test on AI vs human slope pairs
 5. **Visualization**: Mean sentiment trajectories overlaid for both conditions
 
-## Key Files
+## Key Files/components
 - `Analysis_3_sentiment_progression.ipynb` - Main analysis notebook
-- `data/` - Processed HF datasets (posts, human/AI comments + dates)
-- `models/` - Cached sentiment model
-- `outputs/` - Regression slopes and trajectory plots
+- `data used` - Processed HF datasets (posts, human/AI comments + dates)
+- `models used` - Cached sentiment model
+- `outputs obtained` - Regression slopes and trajectory plots
 
 ## Expected Findings
 - **Null result observed**: Both conditions stayed **positive throughout** (no pile-on)
