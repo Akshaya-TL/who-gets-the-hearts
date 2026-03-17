@@ -1,4 +1,4 @@
-# RQ3: Sentiment Progression Analysis
+# RQ2: Analysis 3: Sentiment Progression Analysis
 
 **Research Question**: Does negativity in AI art comments escalate over time (bandwagon effect) compared to human art posts?
 
@@ -13,7 +13,7 @@ AI art posts will show a steeper negative sentiment slope over comment position 
 5. **Visualization**: Mean sentiment trajectories overlaid for both conditions
 
 ## Key Files
-- `rq2_sentiment_progression.ipynb` - Main analysis notebook
+- `Analysis_3_sentiment_progression.ipynb` - Main analysis notebook
 - `data/` - Processed HF datasets (posts, human/AI comments + dates)
 - `models/` - Cached sentiment model
 - `outputs/` - Regression slopes and trajectory plots
